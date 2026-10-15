@@ -503,7 +503,7 @@
 						"selector": [
 							{
 								"type": "SvgSelector",
-								"value": "<svg><polygon points='306.0984191894531,1516.3572998046875,2436.21923828125,1546.4437255859375,2448.25390625,1738.9969482421875,1703.8214111328125,1733.9598388671875,288.0465393066406,1684.8414306640625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+								"value": "<svg><polygon points='306.0984191894531,1516.3572998046875 2436.21923828125,1546.4437255859375 2448.25390625,1738.9969482421875 1703.8214111328125,1733.9598388671875 288.0465393066406,1684.8414306640625 ' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
@@ -524,7 +524,7 @@
 						"selector": [
 							{
 								"type": "SvgSelector",
-								"value": "<svg><polygon points='1123.4295654296875,732.4635009765625,1665.5089111328125,754.7891845703125,1477.468505859375,1162.2099609375,1227.896484375,1103.9012451171875,1190.17236328125,941.397216796875,1094.4110107421875,807.9118041992188' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+								"value": "<svg><polygon points='1123.4295654296875,732.4635009765625 1665.5089111328125,754.7891845703125 1477.468505859375,1162.2099609375 1227.896484375,1103.9012451171875 1190.17236328125,941.397216796875 1094.4110107421875,807.9118041992188 ' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
@@ -545,7 +545,7 @@
 						"selector": [
 							{
 								"type": "SvgSelector",
-								"value": "<svg><polygon points='1043.555908203125,691.8374633789062,1236.60205078125,549.646484375,1503.5728759765625,569.95947265625,1650.0440673828125,741.1690673828125,1037.752197265625,749.8746337890625,1037.752197265625,744.0709228515625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+								"value": "<svg><polygon points='1043.555908203125,691.8374633789062 1236.60205078125,549.646484375 1503.5728759765625,569.95947265625 1650.0440673828125,741.1690673828125 1037.752197265625,749.8746337890625 1037.752197265625,744.0709228515625 ' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
@@ -572,6 +572,47 @@
 					}
 				}
 			]
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-505-506/cabral_d/iiif/canvas/f0102",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-505-506/cabral_d/iiif/canvas/f0102/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-505-506/cabral_d/iiif/canvas/f0102/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00083044_00108",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00083044_00108",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-505-506/cabral_d/iiif/canvas/f0102"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Ein new kunstlich M… (102)"
+				]
+			},
+			"annotations": []
 		}
 	],
 	"label": {
